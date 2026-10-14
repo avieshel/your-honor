@@ -48,7 +48,7 @@ would let you win an argument you were losing.
 ## Install
 
 ```bash
-git clone https://github.com/yourorg/your-honor
+git clone https://github.com/avieshel/your-honor
 cp -r your-honor/skills/your-honor ~/.agents/skills/
 ```
 
